@@ -4,6 +4,7 @@ export default function Home() {
       <h1 className="text-6xl font-semibold">Parabéns!</h1>
       <p className="text-2xl">Você me ajudou a testar a pipeline de deploy</p>
       <p>;)</p>
+      <p>Should not deploy!</p>
     </div>
   );
 }
